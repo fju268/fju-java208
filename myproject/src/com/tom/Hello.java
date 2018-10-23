@@ -1,9 +1,13 @@
 package com.tom;
 
+import java.util.Scanner;
+
 public class Hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		String name = scanner.nextLine();
+		System.out.println(name);
 //		Person p = new Person(68.5f, 1.7f);
 //		   p.weight=68.5f;
 //		   p.height=1.7f;
