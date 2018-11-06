@@ -13,8 +13,8 @@ public class calculate {
 		int c = 24;
 		System.out.println(c * (9 / 5.0) + 32);
 		
-		Random n = new Random();
-		System.out.println(n.nextInt(100)-1);
+//		Random n = new Random();
+//		System.out.println(n.nextInt(100)-1);
 
 	}
 
