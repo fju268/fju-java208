@@ -5,6 +5,11 @@ import java.util.Scanner;
 public class Hello {
 
 	public static void main(String[] args) {
+		int i;
+		for(i=5;i<=100;i+=5){
+			System.out.println(i);
+		}
+		
 		Scanner scanner = new Scanner(System.in);
 		String name = scanner.nextLine();
 		System.out.println(name);

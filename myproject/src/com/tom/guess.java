@@ -11,12 +11,7 @@ public class guess {
 		Scanner scanner = new Scanner(System.in);
 		while(true){
 			int guess = scanner.nextInt();
-			if(){
-				
-			}
 		}
-		
-
 	}
 
 }
