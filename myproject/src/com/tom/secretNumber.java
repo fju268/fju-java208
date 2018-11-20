@@ -7,7 +7,7 @@ public class secretNumber {
 	 this.secret=secret; 
  }
  public void guessnum(){
-	 System.out.print("your guess " + num);
+	 System.out.print("your guess " );
  }
 }	 
 
